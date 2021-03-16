@@ -1,5 +1,16 @@
 # Bot-Self
 
+p align="center">
+
+<img src="https://g.top4top.io/p_1888lawbj1.png" alt="png" width="128" height="128"/>
+
+</p>
+
+<p align="center">
+
+<a href="#"><img title="Bot-Self" src="https://img.shields.io/badge/Bot-Self-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+</p>
 <p align="center">
 
 <a href="#"><img title="Bot-Self" src="https://img.shields.io/badge/Bot-Self-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
