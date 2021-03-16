@@ -42,4 +42,4 @@ function start() {
     }
   })
 }
-start('iqbal.js')
+start('IqbalRizkiMaulana.js')
