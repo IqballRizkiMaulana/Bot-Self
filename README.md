@@ -1,10 +1,6 @@
 # Bot-Self
 
-p align="center">
 
-<img src="https://g.top4top.io/p_1888lawbj1.png" alt="png" width="128" height="128"/>
-
-</p>
 
 <p align="center">
 
