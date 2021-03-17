@@ -1,8 +1,8 @@
 {
-  "name": "AR15BOT",
+  "name": "IqbalRizkiMaulana",
   "version": "1.0.0",
   "description": "Termux only",
-  "main": "index.js",
+  "main": "IqbalRizkiMaulana.js",
   "directories": {
     "lib": "lib"
   },
@@ -34,19 +34,19 @@
     "tiktok-scraper": "^1.4.7"
   },
   "scripts": {
-    "test": "node index"
+    "test": "node IqbalRizkiMaulana"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/A187ID/AR15BOT.git"
+    "url": "git+https://github.com/IqballRizkiMaulana/Bot-Self.git"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "IqbalRizkiMaulana",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/A187ID/AR15BOT/issues"
+    "url": "https://github.com/IqballRizkiMaulana/Bot-Self/issues"
   },
-  "homepage": "https://github.com/A187ID/AR15BOT/readme"
+  "homepage": "https://github.com/IqballRizkiMaulana/Bot-Self/readme"
 }
