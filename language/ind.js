@@ -23,7 +23,9 @@ exports.lvlnoon = () => {
 }
 
 exports.noregis = () => {
-	return`*「 BELUM DAFTAR 」*\n\n*cara daftar ${prefix}daftar nama|umur* \n*contoh ${prefix}daftar affis|17*`
+	return`╭─「 *VERIVIKASI* 」\n│ \`\`\`Pendaftaran berhasil dengan\`\`\` \n│ \`\`\`SN: ${serialUser}\`\`\`\n│\n│\`\`\`Pada ${time}\`\`\`\n│\`\`\`[Nama]: ${pushname}\`\`\`\n│\`\`\`[Nomor]: wa.me/${sender.split("@")[0]}\`\`\`\n│\`\`\`Untuk menggunakan bot\`\`\`\n│\`\`\`silahkan\`\`\`\n│\`\`\`kirim ${prefix}help/menu\`\`\`\n│\`\`\`\n│Total Pengguna: ${_registered.length} Orang\`\`\`\n╰────────────────────`
+
+`
 }
 
 exports.rediregis = () => {
