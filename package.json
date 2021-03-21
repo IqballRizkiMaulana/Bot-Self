@@ -1,14 +1,14 @@
 {
-  "name": "termux-wabot",
+  "name": "Iqbalrizkimaulana",
   "version": "0.0.2",
   "description": "No comment",
-  "main": "index.js",
+  "main": "Iqbalrizkimaulana.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node Iqbalrizkimaulana.js"
   },
   "keywords": [
     "termux",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "MhankBarBar",
+  "author": "Iqbalrizkimaulana",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
@@ -43,10 +43,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mhankbarbar/termux-wabot.git"
+    "url": "git+https://github.com/Iqballrizkimaulana/Bot-Self.git"
   },
   "bugs": {
-    "url": "https://github.com/mhankbarbar/termux-wabot/issues"
+    "url": "https://github.com/Iqballrizkimaulana/Bot-Self/issues"
   },
-  "homepage": "https://github.com/mhankbarbar/termux-wabot#readme"
+  "homepage": "https://github.com/Iqballrizkimaulana/Bot-Self#readme"
 }
