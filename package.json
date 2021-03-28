@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node iqbl.js"
+    "start": "node IqbalRizkiMaulana.js"
   },
   "keywords": [
     "termux",
@@ -46,10 +46,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rizki0001/Iqbal-Ganss.git"
+    "url": "git+https://github.com/IqballRizkiMaulana/Bot-Self.git"
   },
   "bugs": {
-    "url": "https://github.com/Rizki0001/Iqbal-Ganss/issues"
+    "url": "https://github.com/IqballRizkiMaulana/Bot-Self/issues"
   },
-  "homepage": "https://github.com/Rizki0001/Iqbal-Ganss#readme"
+  "homepage": "https://github.com/IqballRizkiMaulana/Bot-Self#readme"
 }
