@@ -22,7 +22,8 @@
 ### TERMUX
 
 ```bash
-> apt update && apt upgrade -y
+> pkg update-y
+> pkg upgrade-y
 > pkg install git -y
 > pkg install bash -y
 > git clone https://github.com/IqballRizkiMaulana/Bot-Self.git
